@@ -1,0 +1,38 @@
+body {
+    font-family: arial;
+    text-align: center;
+    padding: 30px;
+    color: #2f4f4f;
+  }
+  
+  h1 {
+    font-size: 28px;
+    color: #8b0000;
+    margin-bottom: 15px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  img {
+    width: 100%;
+    max-width: 280px;
+    margin: 15px 0;
+    border-radius: 5px;
+    border: 2px solid #8b0000;
+  }
+  
+  a {
+    color: #00008b;
+    font-size: 16px;
+    text-decoration: underline;
+    display: block;
+    margin-top: 10px;
+  }
+  
+  strong {
+    color: #8b0000;
+    font-size: 20px;
+  }
